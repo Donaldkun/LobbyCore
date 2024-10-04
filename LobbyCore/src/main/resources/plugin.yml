@@ -1,0 +1,8 @@
+name: LobbyCore
+version: '1.0'
+main: Kasteve.donald.lobbyCore.LobbyCore
+api-version: '1.21'
+
+commands:
+  sv:
+    description: サバイバルサーバーにテレポートします。
